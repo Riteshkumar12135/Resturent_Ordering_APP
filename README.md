@@ -4,17 +4,7 @@ A responsive restaurant online-ordering application built with Next.js, TypeScri
 
 The application provides a customer-facing menu, search and category filtering, shopping cart, checkout flow, and an admin order management page.
 
----
 
-## Live Demo
-
-Live URL: [Add your deployed URL here]
-
-## GitHub Repository
-
-GitHub URL: [Add your GitHub repository URL here]
-
----
 
 ## Features
 
